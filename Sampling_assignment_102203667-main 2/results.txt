@@ -1,0 +1,27 @@
+Model Accuracies with Different Sampling Techniques:
+
+Random Sampling:
+Logistic Regression: 1.0
+Decision Tree: 0.96
+Random Forest: 1.0
+
+Stratified Sampling:
+Logistic Regression: 1.0
+Decision Tree: 0.96
+Random Forest: 1.0
+
+Systematic Sampling:
+Logistic Regression: 0.99
+Decision Tree: 0.96
+Random Forest: 0.99
+
+Bootstrap Sampling:
+Logistic Regression: 1.0
+Decision Tree: 0.99
+Random Forest: 1.0
+
+Cluster Sampling:
+Logistic Regression: 1.0
+Decision Tree: 0.96
+Random Forest: 1.0
+
